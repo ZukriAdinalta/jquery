@@ -1,0 +1,48 @@
+# Jquery Efek
+-> digunakan utk menambahkan animasi ke dalam web. terdapat bermacam2 animasi mulai animasi sederhana, animasi standar sampai animasi yg dpt dibangun sesuai keinginan sendiri
+
+1. hide()
+=> function effect jquery untuk menyembunyikan element.
+- hide(1000) -> waktu hidenya 1000ms
+- hide("normal"), hide("slow"), hide("fast")
+
+2. show()
+=> function effect jquery untuk menampilkan element.
+- hide(1000) -> waktu shownya 1000ms
+- show("normal"), show("slow"), show("fast")
+
+3. fadeOut()
+=> function effect jquery untuk menyembunyikan element dengan effect memudar.
+
+4. fadeIn()
+=> function effect jquery untuk menampilkan element dengan effect memudar.
+
+5. fadeToggle()
+=> function effect jquery untuk menampilkan dan menyembunyikan element dengan effect memudar.
+
+6. fadeTo() 
+=> function effect jquery untuk mengatur opacity suatu element dengan durasi interval tertentu
+
+7. slideUp()
+=>function effect jquery untuk menyembunyikan element dengan effect slide.
+
+8. slideDown()
+=> function effect jquery untuk menampilkan element dengan effect slide.
+
+9. slideToggle()
+=> function effect jquery untuk menampilkan dan menyembunyikan element dengan effect slide.
+
+10. animate()
+=> function effect jquery untuk membuat effect animasi pada element.
+
+11. ClearQueue() 
+=> function effect jquery untuk menghentikan fungsi yang belum berjalan
+
+12. delay()
+=> function effect jquery untuk membuat efek jedah pada efek satu terhadap efek yang lainnya
+
+13. toggle()
+=> function effect jquery untuk menampilkan dan menyembunyikan element. 
+
+
+

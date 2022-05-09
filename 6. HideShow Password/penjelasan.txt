@@ -1,0 +1,5 @@
+# Hide Dan Show Password
+1. is()
+memeriksa apakah salah satu elemen yang dipilih cocok dengan selectorElement.
+2. attr()
+adalah fungsi jquery untuk mendapatkan nilai dari atribut pada element HTML.

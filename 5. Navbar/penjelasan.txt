@@ -1,0 +1,7 @@
+# Navbar Dropdown Dengan Jquery
+
+1.hover() 
+=> metode menetapkan dua fungsi untuk menjalankan ketika pointer mouse melayang di atas elemen yang dipilih
+
+2. find() 
+=> dimana method ini berfungsi untuk menemukan sebuah elemen dari sekian banyak kode yang kita buat pada suatu halaman.

@@ -1,0 +1,27 @@
+# Selector Jquery
+-> digunakan untuk memilih elemen atau object berdasarkan tag, id, class dan atribut yg akan dimanipulasi
+
+1. Selector TAG
+=> h1, p, span dll
+$('h1').css('color','red');
+
+2. Selector CLASS 
+=> .text, .paragraf, .judul
+$('.judul').css('backgroud-color','red');
+
+3. Selector ID 
+=> #text, #paragraf, #judul
+$('#text').css('backgroud-color','red');
+
+4. Selector Gabungan
+=> tag .class #id
+$('h1 .judul #text').css('backgroud-color','red');
+
+5. $(document).ready(function({}))
+- $(document) => memanggil semua document HTML
+- .ready => mengeksekuasi ketika document selesai di load
+
+6. untuk referensi selector bisa di lihat di => w3schools.com/jquery/jquery_ref_selectors.asp
+- $("*") => semua elemen akan berubah (universal),
+- $("ul li:eq(3)") => akan merubah Elemen keempat dalam daftar (indeks dimulai dari 0)
+- $("input:submit") => akan merubah Elemen input type submit,

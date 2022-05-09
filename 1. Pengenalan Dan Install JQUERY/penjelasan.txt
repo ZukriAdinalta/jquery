@@ -1,0 +1,20 @@
+# Mengenal Jquery
+-> pustaka javascript yang digunakan untuk mempercepat, memperingkas serta sederhana manipulasi document HTML, penanganan event, animasi dan interaksi AJAX untuk mempercepat pengembangan web.
+
+1. Syntak JQUERY
+$(selector).action()
+JQuery(selector).action();
+- $ => simbol dolar mendefinisikan fungsi Jquery
+- Selector => menunjukan elemen yg dipilih bisa berupa tag, nama class atau id elemen.
+- action => aksi yg diberikan terhadap elemen yg dipilih
+
+2. cara download
+- https://jquery.com/download/
+- Download the compressed, production jQuery 3.6.0
+- copy coding simpan di jquery.js 
+
+3. panggil jquery di HTML yang kita buat
+
+4. memanggil jquery secara online
+-> https://developers.google.com/speed/libraries
+-> 

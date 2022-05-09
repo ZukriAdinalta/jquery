@@ -1,0 +1,23 @@
+# Selector Jquery
+-> Sebuah method atau aksi yang di lakukan jquery, atau aksi lanjutan setelah menetapkan selector.
+
+1. https://api.jquery.com/category/events/
+=> document jquery untuk kategori event
+
+2. click()
+=> event atau method terjadi saat elemen di klik.
+
+3.dblclick()
+=> event atau method terjadi saat elemen di klik 2 kali.
+
+4.mouseleave()
+=> event atau method terjadi ketika cursor mouse meninggalkan elemen.
+
+5.mouseenter()
+=> event atau method terjadi ketika cursor mouse di letakan atau memasuki element
+
+6. keyup
+Pada dasarnya keyup merupakan event ketika tombol dilepaskan pada keyboard 
+
+7. keydown
+sedangkan keydown adalah event ketika tombol ditekan pada keyboard.
